@@ -1,0 +1,22 @@
+h2 {
+    color: red;
+}
+section{
+    float: right;
+}
+img{
+    width: 600px;
+    border-radius: 8px;
+}
+
+
+  @font-face {
+      font-family: myfont;
+      src: url("http://fonts.cdnfonts.com/css/simplifica" rel="stylesheet">);
+  }
+
+h1{
+    font-family: 'Simplifica', sans-serif;
+                                                                                                                    font-family: 'Simplifica', sans-serif;
+                                                
+}
